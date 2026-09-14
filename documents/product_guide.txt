@@ -1,0 +1,10 @@
+Product Guide
+
+Starter plan
+The Starter plan supports up to 5 team members and includes basic reporting, email support, and 10 GB of shared storage.
+
+Professional plan
+The Professional plan supports up to 25 team members. It includes advanced reporting, priority email support, API access, and 100 GB of shared storage.
+
+Enterprise plan
+The Enterprise plan is intended for larger organizations. It includes custom user limits, single sign-on, dedicated support, and negotiated storage limits. Pricing is provided by the sales team.
